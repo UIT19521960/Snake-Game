@@ -4,7 +4,7 @@
 
 ➤ Cách tải
 - Tải Python:\
-Bước 1: Truy cập đường dẫn: www.python.org/downloads\
+Bước 1: Truy cập đường dẫn: www.python.org/downloads \
 Bước 2: Tải version mới nhất, phù hợp nhất về máy\
 Bước 3: Chạy file vừa tải về\
 Bước 4: Nhấn run để thực hiện cài đặt\
